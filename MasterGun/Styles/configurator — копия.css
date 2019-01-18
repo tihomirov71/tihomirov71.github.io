@@ -1,0 +1,39 @@
+#rec80914359 .t-col {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#rec80914359 {
+	margin-left:250px;
+}
+
+@media screen and (max-width: 1024px){
+	#rec80914359  .t754__col {
+        margin-bottom: 10px;
+       }
+#rec80914359 .t754__col_mobile-grid {
+        width: 50%;
+		display: inline-block;
+        vertical-align: top
+    }
+#rec80914359 {
+	margin-left:40px;
+}
+
+
+
+.t-rec_pb_75 {
+        padding-bottom: 15px !important;
+    }
+}
+
+@media screen and (max-width: 447px) {
+    .t447__col.t-col_3 {
+        max-width:50%;
+        
+    }
+}
+
+
+
+    
